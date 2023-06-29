@@ -1,0 +1,8 @@
+{
+    "require": {
+        "phpmailer/phpmailer": "^5.2",
+        "mpdf/mpdf": "^8.0",
+        "google/cloud-storage": "^1.23",
+        "google/cloud-pubsub": "^1.29"
+    }
+}
